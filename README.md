@@ -10,10 +10,10 @@
 
 ## How To Run
 
-**Recommended**- ***Create a virtual Python3 environment to run locally***
--Install all the dependancies from ***requirements.txt***
--Connect to the product database (MYSQL credentials)
--run app.py
+- **Recommended**- ***Create a virtual Python3 environment to run locally***
+- Install all the dependancies from ***requirements.txt***
+- Connect to the product database (MYSQL credentials)
+- run app.py
 
 
 
