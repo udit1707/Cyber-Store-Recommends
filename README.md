@@ -1,4 +1,4 @@
-# CyberStore's Recommender
+# CyberStore Recommends
 
 ## Description
 
